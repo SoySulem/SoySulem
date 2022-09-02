@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---><h1 align="center">Hola 👋, soy Jennifer Sulem Goriano Tapia</h1>
-<h3 align="center">Una apasionada desarrolladora de Java de México</h3>
+--><h1 align="center">Hola 👋, soy Jennifer Sulem Gordiano Tapia</h1>
+<h3 align="center">Una apasionada desarrolladora Java de México</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soysulem&label=Profile%20views&color=0e75b6&style=flat" alt="soysulem" /> </p>
 
@@ -38,4 +38,3 @@ Here are some ideas to get you started:
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=soysulem&show_icons=true&locale=en" alt="soysulem" /> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soysulem&" alt="soysulem" /></p>
-
